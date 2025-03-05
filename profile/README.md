@@ -1,7 +1,5 @@
 # 🚀 ProjectOlympus - Tatlas 🍽️
 
-![ProjectOlympus](Olmypus.jpeg)  
-
 Welcome to **ProjectOlympus**, a team of six passionate and hardworking university students eager to learn, grow, and build something impactful! Our mission is to develop **Tatlas**, a web and mobile application that allows users to **discover**, **review**, and **share** their favorite restaurants.
 
 ## 🌟 Who Are We?
