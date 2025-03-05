@@ -24,6 +24,6 @@ With **Tatlas**, users can:
 ## 📩 Contact & Follow Us
 Join us on our journey! 🚀 Follow our development process and contribute to our project:
 
-📧 [Email](lezzetpuani@gmail.com)
+📧 [Email](project.olympus25@gmail.com)
 
 Let's grow the Tatlas community together! 🎉
